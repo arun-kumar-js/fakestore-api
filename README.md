@@ -1,1 +1,1 @@
-# fake-store
+# fake.store.2
