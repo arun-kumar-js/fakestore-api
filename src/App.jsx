@@ -1,6 +1,6 @@
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import Cart from "./Cart";
-import Nav from "./warpper/nav";
+import Nav from "./warpper/Nav";
 import Home from "./components/Home";
 
 const app = () => {
